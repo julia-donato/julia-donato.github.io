@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Cloud Computing and Big Data
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Optimizing Disease Diagnosis on Amazon Web Services](https://github.com/julia-donato/FinalProjectCC)
+
+This research aims to address the challenge of feature redundancy in large medical datasets and enhance the performance of conventional deep learning models through the use of ensemble learning techniques on a cloud platform. The project utilizes genetic algorithms for feature selection, model improvement, and deep learning training. The improved model, deployed on Amazon Web Services (AWS), ensures scalability, availability, and accessibility. 
+
+<img src="images/pipeline.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
