@@ -5,6 +5,8 @@
 
 This research aims to address the challenge of feature redundancy in large medical datasets and enhance the performance of conventional deep learning models through the use of ensemble learning techniques on a cloud platform. The project utilizes big data, genetic algorithms for feature selection, model improvement, and deep learning training. The improved model, deployed on Amazon Web Services (AWS), ensures scalability, availability, and accessibility. 
 
+[View code on Github](https://github.com/julia-donato/FinalProjectCC)
+
 <img src="images/pipeline.png?raw=true"/>
 
 ---
