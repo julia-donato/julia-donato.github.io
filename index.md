@@ -10,25 +10,15 @@ This research aims to address the challenge of feature redundancy in large medic
 <img src="images/pipeline.png?raw=true"/>
 
 ---
-### Data-Driven Road Safety Web Application for Texas Drivers
+### Relational Database Driven Road Safety Web Application for Texas Drivers
 
-Drive Smart Texas is a web application designed to bolster road safety in Texas, granting users access to historical accident data tailored to their specific route and conditions. We successfully cleaned and processed a large traffic incident dataset, stored in MySQL Workbench, and navigated challenges such as migrating the database to ClearDB for seamless Heroku deployment. The result is a user-friendly platform that not only offers insights into potential route hazards but also provides an avenue for reporting new incidents.
+Drive Smart Texas is a web application designed to bolster road safety in Texas, granting users access to historical accident data tailored to their specific route and conditions. We successfully cleaned and processed a large traffic incident dataset, stored the data in MySQL Workbench, and migrated the database to ClearDB for seamless Heroku deployment. The result is a user-friendly platform that uses database queries to not only offers insights into potential route hazards but also provides an avenue for reporting new incidents.
 
 
 [View the app Drive Smart Texas](https://drive-smart-texas-498e9b25a4c3.herokuapp.com/)  
 [View code on Github](https://github.com/julia-donato/Database-Project)
 
 <img src="images/drive_smart.png?raw=true"/>
-
----
-### Policy Memo on U.S. Gun Ownership: Advanced Statistical Insights Using SPSS and the 2018 General Social Survey
-
-Utilizing advanced statistical methods in SPSS, the gun ownership policy memo provides a comprehensive data-driven analysis of the correlation between gun ownership and various demographic, educational, and political variables in the U.S. Methods used include descriptive statistics, independent samples t-tests, correlation analysis, and multivariate logistic regression.
-
-
-[View the policy memo](./pdf/Policy_Memo.pdf)
-
-<img src="images/policy.png?raw=true"/>
 
 ---
 ### Drug Persistency Predictor: Advanced ML-driven Insights
@@ -41,14 +31,14 @@ Leveraging machine learning algorithms, this project crafts a nuanced prediction
 <img src="images/ml.png?raw=true"/>
 
 ---
-### Project 5 title
+### Policy Memo on U.S. Gun Ownership: Advanced Statistical Insights Using SPSS and the 2018 General Social Survey
 
-Description.
+Utilizing advanced statistical methods in SPSS, the gun ownership policy memo provides a comprehensive data-driven analysis of the correlation between gun ownership and various demographic, educational, and political variables in the U.S. Methods used include descriptive statistics, independent samples t-tests, correlation analysis, and multivariate logistic regression.
 
 
-[View code on Github](http://example.com/)
+[View the policy memo](./pdf/Policy_Memo.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/policy.png?raw=true"/>
 
 ---
 ## Skills-based Project
