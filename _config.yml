@@ -1,8 +1,10 @@
-title: Julia Donato # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description:
-  
-  "Aspiring data professional pursuing a master's degree in data science at Indiana University Bloomington, with a focus on data analysis, data engineering, and predictive modeling. Expected graduation:\ December 2024"
+title: Julia Donato
+# your name (or website title) here
+logo: "/images/logo.png?raw=true" 
+# your photo (or logo) here
+description: >
+  Aspiring data professional pursuing a master's degree in data science at Indiana University Bloomington, with a focus on data analysis, data engineering, and predictive modeling. Expected graduation:
+  December 2024
   <br><br>
   My goal is to make a meaningful impact in the world of data science/analytics and contribute to the success of organizations through the application of data-driven solutions. 
   <br><br>
@@ -11,6 +13,6 @@ description:
   <a href="github.com/julia-donato">View My GitHub Profile</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
 
+plugins:
+  - jekyll-remote-theme
