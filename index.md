@@ -6,11 +6,11 @@
 This research tackles feature redundancy in large medical datasets by using ensemble learning techniques on a cloud platform. We employ big data, genetic algorithms for feature selection, and deep learning enhancements. The optimized model is hosted on AWS for scalability and accessibility.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/AWS-white?logo=amazonaws)](#) 
+[![](https://img.shields.io/badge/AWS-white?logo=amazonaws&logoColor=#232F3E)](#) 
 [![](https://img.shields.io/badge/Apache%20Spark-white?logo=apachespark)](#) 
 [![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#) 
-[![](https://img.shields.io/badge/Flask-white?logo=flask)](#) 
-[![](https://img.shields.io/badge/Heroku-white?logo=heroku)](#) 
+[![](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=#000000)](#) 
+[![](https://img.shields.io/badge/Heroku-white?logo=heroku&logoColor=#430098)](#) 
 
 [View code on Github](https://github.com/julia-donato/FinalProjectCC)
 
