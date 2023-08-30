@@ -23,7 +23,7 @@ Drive Smart Texas is a web application designed to bolster road safety in Texas,
 ---
 ### Policy Memo on U.S. Gun Ownership: Advanced Statistical Insights Using SPSS and the 2018 General Social Survey
 
-The gun ownership policy memo provides a comprehensive data-driven analysis of the correlation between gun ownership and various demographic, educational, and political variables in the U.S. Utilizing advanced statistical methods in SPSS, the study uncovers significant patterns, such as the influence of political affiliation and racial backgrounds on gun ownership and perspectives on gun control.
+Utilizing advanced statistical methods in SPSS, the gun ownership policy memo provides a comprehensive data-driven analysis of the correlation between gun ownership and various demographic, educational, and political variables in the U.S. Methods used include descriptive statistics, independent samples t-tests, correlation analysis, and multivariate logistic regression.
 
 
 [View the policy memo](./pdf/Policy_Memo.pdf)
@@ -31,7 +31,17 @@ The gun ownership policy memo provides a comprehensive data-driven analysis of t
 <img src="images/policy.png?raw=true"/>
 
 ---
-### Project 4 title
+### Drug Persistency Predictor: Advanced ML-driven Insights
+
+Leveraging state-of-the-art machine learning algorithms, this project crafts a nuanced prediction model for drug persistency based on physician prescription data. Through rigorous data preprocessing, exploratory data analysis, and algorithm optimization, the developed model enables pharmaceutical companies to understand and enhance patient adherence, resulting in improved patient outcomes.
+
+
+[View code on Github](https://github.com/julia-donato/Drug-Persistency-App/tree/main)
+
+<img src="images/cm.png?raw=true"/> <img src="images/roc.png?raw=true"/>
+
+---
+### Project 5 title
 
 Description.
 
