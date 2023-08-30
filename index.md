@@ -1,4 +1,4 @@
-## Selected Projects in Machine Learning, Cloud Computing, and Big Data
+## Selected Projects in Machine Learning, Cloud Computing, Relational Databases, and Statistics
 
 ---
 ### Optimizing Disease Diagnosis on Amazon Web Services
