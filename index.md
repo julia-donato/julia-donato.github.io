@@ -14,7 +14,9 @@ This research aims to address the challenge of feature redundancy in large medic
 [Drive Smart Texas](https://github.com/julia-donato/Database-Project)
 
 Drive Smart Texas is a web application designed to bolster road safety in Texas, granting users access to historical accident data tailored to their specific route and conditions. We successfully cleaned and processed a traffic incident dataset, stored in MySQL Workbench, and navigated challenges such as migrating the database to ClearDB for seamless Heroku deployment. The result is a user-friendly platform that not only offers insights into potential route hazards but also provides an avenue for reporting new incidents.
-<a href="https://drive-smart-texas-498e9b25a4c3.herokuapp.com/">View the App Drive Smart Texas</a>
+
+[View the App Drive Smart Texas](https://drive-smart-texas-498e9b25a4c3.herokuapp.com/)
+
 <img src="images/drive_smart.png?raw=true"/>
 
 ---
