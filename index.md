@@ -33,12 +33,12 @@ Utilizing advanced statistical methods in SPSS, the gun ownership policy memo pr
 ---
 ### Drug Persistency Predictor: Advanced ML-driven Insights
 
-Leveraging state-of-the-art machine learning algorithms, this project crafts a nuanced prediction model for drug persistency based on physician prescription data. Through rigorous data preprocessing, exploratory data analysis, and algorithm optimization, the developed model enables pharmaceutical companies to understand and enhance patient adherence, resulting in improved patient outcomes.
+Leveraging machine learning algorithms, this project crafts a nuanced prediction model for drug persistency based on physician prescription data. Through rigorous data preprocessing, exploratory data analysis, and algorithm optimization, the developed model enables pharmaceutical companies to understand and enhance patient adherence, resulting in improved patient outcomes.
 
 
 [View code on Github](https://github.com/julia-donato/Drug-Persistency-App/tree/main)
 
-<img src="images/cm.png?raw=true"/> <img src="images/roc.png?raw=true"/>
+<img src="images/ml.png?raw=true"/>
 
 ---
 ### Project 5 title
