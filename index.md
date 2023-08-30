@@ -21,6 +21,12 @@ This research tackles feature redundancy in large medical datasets by using ense
 
 Drive Smart Texas is a web app promoting road safety in Texas by providing users with tailored historical accident data. We processed a vast traffic incident dataset, used MySQL Workbench for storage, and deployed seamlessly on Heroku via ClearDB. The platform offers route hazard insights and allows users to report new incidents.
 
+[![](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=%234479A1)](#)
+[![](https://img.shields.io/badge/Google%20Maps-white?logo=google-maps&logoColor=%234285F4)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#)
+[![](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=%23000000)](#) 
+[![](https://img.shields.io/badge/Heroku-white?logo=heroku&logoColor=%23430098)](#) 
 
 [View the app Drive Smart Texas](https://drive-smart-texas-498e9b25a4c3.herokuapp.com/)  
 [View code on Github](https://github.com/julia-donato/Database-Project)
@@ -32,6 +38,11 @@ Drive Smart Texas is a web app promoting road safety in Texas by providing users
 
 Leveraging machine learning algorithms, this project crafts a nuanced prediction model for drug persistency based on physician prescription data. Through rigorous data preprocessing, exploratory data analysis, and algorithm optimization, the developed model enables pharmaceutical companies to understand and enhance patient adherence.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#)
+[![](https://img.shields.io/badge/AdaBoost-white?logo=adaboost)](#) 
+[![](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=%23000000)](#) 
+[![](https://img.shields.io/badge/Heroku-white?logo=heroku&logoColor=%23430098)](#) 
 
 [View code on Github](https://github.com/julia-donato/Drug-Persistency-App/tree/main)
 
