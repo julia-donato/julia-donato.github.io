@@ -21,24 +21,31 @@ Drive Smart Texas is a web application designed to bolster road safety in Texas,
 <img src="images/drive_smart.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Policy Memo on U.S. Gun Ownership: Advanced Statistical Insights Using SPSS and the 2018 General Social Survey
+
+The gun ownership policy memo provides a comprehensive data-driven analysis of the correlation between gun ownership and various demographic, educational, and political variables in the U.S. Utilizing advanced statistical methods in SPSS, the study uncovers significant patterns, such as the influence of political affiliation and racial backgrounds on gun ownership and perspectives on gun control.
+
+
+[View the policy memo](./pdf/Policy_Memo.pdf)
+
+<img src="images/policy.png?raw=true"/>
+
+---
+### Project 4 title
+
+Description.
+
+
+[View code on Github](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+## Skills-based Project
 
-### Category Name 2
+A selection of smaller projects demonstrating specific data science and ML skills.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [NLP Mini Project: Sentiment Analysis on Amazon Fashion Reviews](https://github.com/julia-donato/NLP-sentiment-analysis/tree/main)
+- [Web Scraping Mini Project: Maryland's Political Evolution](https://github.com/julia-donato/WebScraping-Mini-Project/tree/main)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
