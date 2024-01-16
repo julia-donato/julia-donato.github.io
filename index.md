@@ -74,8 +74,8 @@ This innovative project in computer vision advances object detection, focusing o
 
 [View code on Github](https://github.com/julia-donato/object-recognition/tree/main)
 
-<img src="images/dog.png?raw=true"/>
-<img src="images/cat.png?raw=true"/>
+<img src="images/dog.png?raw=true" width="100" height="100"/>
+
 
 ---
 ### Policy Memo on U.S. Gun Ownership: Advanced Statistical Insights Using SPSS and the 2018 General Social Survey
