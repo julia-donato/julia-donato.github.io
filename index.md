@@ -3,7 +3,7 @@
 ---
 ### Big Data Analysis of Renewable Energy in Emerging Economies
 
-Leveraging the power of Google Cloud Platform, this big data project examines the impact of socio-economic factors on renewable energy consumption and solar radiation potential in emerging economies. Thia study integrates extensive datasets from the World Bank and the National Solar Radiation Database. Advanced data analytics tools, including Google Bigtable and Python, are employed to uncover how socio-economic trends shape renewable energy use, offering key insights for sustainable energy policies in these rapidly evolving markets.
+Leveraging the power of Google Cloud Platform, this big data project examines the impact of socio-economic factors on renewable energy consumption and solar radiation potential in emerging economies. Advanced data analytics tools, including Google Bigtable and Python, are employed to uncover how socio-economic trends shape renewable energy use, offering key insights for sustainable energy policies in these rapidly evolving markets.
 
 [![](https://img.shields.io/badge/Google_Cloud-white?logo=google-cloud)](#)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
@@ -16,7 +16,7 @@ Leveraging the power of Google Cloud Platform, this big data project examines th
 ---
 ### Optimizing Disease Diagnosis on Amazon Web Services
 
-This research tackles feature redundancy in large medical datasets by using ensemble learning techniques on a cloud platform. I employ big data, genetic algorithms for feature selection, and deep learning enhancements. The optimized model is hosted on AWS for scalability and accessibility.
+This research tackles feature redundancy in large medical datasets by using ensemble learning techniques on a cloud platform. Big data techniques, genetic algorithms for feature selection, and deep learning enhancements are employed. The optimized model is hosted on AWS for scalability and accessibility.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/AWS-white?logo=amazonaws&logoColor=%23232F3E)](#) 
@@ -48,6 +48,18 @@ Drive Smart Texas is a web app promoting road safety in Texas by providing users
 
 
 ---
+### Linking a Network of Indiana Technologies
+
+In collaboration with AnalytiXIN, this project analyzes clinical trial data in Indiana, comparing it with national trends to address equitable access to clinical trials. Utilizing data from Clinicaltrials.gov, U.S. Census, and CMS, the study highlights discrepancies in trial distribution and identifies key socio-economic factors influencing trial locations. This insightful analysis is pivotal for strategizing improvements in clinical trial accessibility across diverse regions of Indiana.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#)
+
+[View code on Github](https://github.com/julia-donato/LNIT)
+
+<img src="images/trials.png?raw=true"/>
+
+---
 ### Advanced Object Detection: CaDOd Project
 
 This innovative project in computer vision advances object detection, focusing on accurately identifying cats and dogs in images. It leverages a multi-phase approach, incorporating techniques like EfficientDet models, YoloV8, and PyTorch-based neural networks, to refine object detection accuracy significantly.
@@ -63,19 +75,6 @@ This innovative project in computer vision advances object detection, focusing o
 <img src="images/cat.png?raw=true" width="500" height="100"/>
 
 ---
-### Linking a Network of Indiana Technologies
-
-In collaboration with AnalytiXIN, this project analyzes clinical trial data in Indiana, comparing it with national trends to address equitable access to clinical trials. Utilizing data from Clinicaltrials.gov, U.S. Census, and CMS, the study highlights discrepancies in trial distribution and identifies key socio-economic factors influencing trial locations. This insightful analysis is pivotal for strategizing improvements in clinical trial accessibility across diverse regions of Indiana.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#)
-
-[View code on Github](https://github.com/julia-donato/LNIT)
-
-<img src="images/trials.png?raw=true"/>
-
----
-
 ### Policy Memo on U.S. Gun Ownership: Advanced Statistical Insights Using SPSS and the 2018 General Social Survey
 
 Utilizing advanced statistical methods in SPSS, this gun ownership policy memo provides a comprehensive data-driven analysis of the correlation between gun ownership and various demographic, educational, and political variables in the U.S. Methods used include descriptive statistics, independent samples t-tests, correlation analysis, and multivariate logistic regression.
