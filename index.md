@@ -60,7 +60,7 @@ This innovative project in computer vision advances object detection, focusing o
 
 [View code on Github](https://github.com/julia-donato/object-recognition/tree/main)
 
-<img src="images/dog.png?raw=true" width="100" height="100"/> <img src="images/cat.png?raw=true" width="400" height="100"/>
+<img src="images/cat.png?raw=true" width="500" height="100"/>
 
 ---
 ### Linking a Network of Indiana Technologies
