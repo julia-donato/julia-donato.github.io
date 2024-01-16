@@ -9,6 +9,8 @@ Leveraging the power of Google Cloud Platform, this big data project examines th
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#) 
 
+[View code on Github](https://github.com/julia-donato/Big-Data-Renewable-Energy/tree/main)
+
 <img src="images/GHI.png?raw=true"/>
 
 ---
@@ -58,6 +60,22 @@ Leveraging machine learning algorithms, this project crafts a nuanced prediction
 [View code on Github](https://github.com/julia-donato/Drug-Persistency-App/tree/main)
 
 <img src="images/ml.png?raw=true"/>
+
+---
+### Advanced Object Detection: CaDOd Project
+
+This innovative project in computer vision advances object detection, focusing on accurately identifying cats and dogs in images. It leverages a multi-phase approach, incorporating techniques like EfficientDet models, YoloV8, and PyTorch-based neural networks, to refine object detection accuracy significantly.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](#)
+[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](#)
+[![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](#)
+[![](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](#)
+
+[View code on Github](https://github.com/julia-donato/object-recognition/tree/main)
+
+<img src="images/dog.png?raw=true"/>
+<img src="images/cat.png?raw=true"/>
 
 ---
 ### Policy Memo on U.S. Gun Ownership: Advanced Statistical Insights Using SPSS and the 2018 General Social Survey
