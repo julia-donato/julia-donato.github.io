@@ -68,9 +68,9 @@ This innovative project in computer vision advances object detection, focusing o
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
-[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](#)
-[![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](#)
-[![](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](#)
+[![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+[![](https://img.shields.io/badge/Keras-white?logo=keras)](#)
+[![](https://img.shields.io/badge/Google_Colab-white?logo=googlecolab)](#)
 
 [View code on Github](https://github.com/julia-donato/object-recognition/tree/main)
 
