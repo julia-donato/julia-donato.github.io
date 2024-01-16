@@ -90,7 +90,7 @@ Utilizing advanced statistical methods in SPSS, this gun ownership policy memo p
 A selection of smaller projects demonstrating specific data science and ML skills.
 
 - [Optical Character Recognition System](https://github.com/julia-donato/OCR-System)
-- [Drug Persistency Predictor: Advanced ML-driven Insights](https://github.com/julia-donato/Drug-Persistency-App/tree/main)
+- [Drug Persistency Predictor](https://github.com/julia-donato/Drug-Persistency-App/tree/main)
 - [NLP Mini Project: Sentiment Analysis on Amazon Fashion Reviews](https://github.com/julia-donato/NLP-sentiment-analysis/tree/main)
 - [Web Scraping Mini Project: Maryland's Political Evolution](https://github.com/julia-donato/WebScraping-Mini-Project/tree/main)
 
