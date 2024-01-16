@@ -46,20 +46,6 @@ Drive Smart Texas is a web app promoting road safety in Texas by providing users
 
 <img src="images/drive_smart.png?raw=true"/>
 
----
-### Drug Persistency Predictor: Advanced ML-driven Insights
-
-Leveraging machine learning algorithms, this project crafts a nuanced prediction model for drug persistency based on physician prescription data. Through rigorous data preprocessing, exploratory data analysis, and algorithm optimization, the developed model enables pharmaceutical companies to understand and enhance patient adherence.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#)
-[![](https://img.shields.io/badge/AdaBoost-white?logo=adaboost)](#) 
-[![](https://img.shields.io/badge/Flask-white?logo=flask&logoColor=%23000000)](#) 
-[![](https://img.shields.io/badge/Heroku-white?logo=heroku&logoColor=%23430098)](#) 
-
-[View code on Github](https://github.com/julia-donato/Drug-Persistency-App/tree/main)
-
-<img src="images/ml.png?raw=true"/>
 
 ---
 ### Advanced Object Detection: CaDOd Project
@@ -76,8 +62,20 @@ This innovative project in computer vision advances object detection, focusing o
 
 <img src="images/dog.png?raw=true" width="100" height="100"/> <img src="images/cat.png?raw=true" width="500" height="100"/>
 
+---
+### Linking a Network of Indiana Technologies
+
+In collaboration with AnalytiXIN, this project analyzes clinical trial data in Indiana, comparing it with national trends to address equitable access to clinical trials. Utilizing data from Clinicaltrials.gov, U.S. Census, and CMS, the study highlights discrepancies in trial distribution and identifies key socio-economic factors influencing trial locations. This insightful analysis is pivotal for strategizing improvements in clinical trial accessibility across diverse regions of Indiana.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#)
+
+[View code on Github](https://github.com/julia-donato/LNIT)
+
+<img src="images/trials.png?raw=true"/>
 
 ---
+
 ### Policy Memo on U.S. Gun Ownership: Advanced Statistical Insights Using SPSS and the 2018 General Social Survey
 
 Utilizing advanced statistical methods in SPSS, this gun ownership policy memo provides a comprehensive data-driven analysis of the correlation between gun ownership and various demographic, educational, and political variables in the U.S. Methods used include descriptive statistics, independent samples t-tests, correlation analysis, and multivariate logistic regression.
@@ -85,14 +83,16 @@ Utilizing advanced statistical methods in SPSS, this gun ownership policy memo p
 
 [View the policy memo](./pdf/Policy_Memo.pdf)
 
-<img src="images/policy.png?raw=true" width="600" height="300"/>
+<img src="images/policy.png?raw=true"/>
 
 ---
 ## Skills-based Projects
 
 A selection of smaller projects demonstrating specific data science and ML skills.
 
+- [Drug Persistency Predictor: Advanced ML-driven Insights](https://github.com/julia-donato/Drug-Persistency-App/tree/main)
 - [NLP Mini Project: Sentiment Analysis on Amazon Fashion Reviews](https://github.com/julia-donato/NLP-sentiment-analysis/tree/main)
 - [Web Scraping Mini Project: Maryland's Political Evolution](https://github.com/julia-donato/WebScraping-Mini-Project/tree/main)
+
 
 ---
