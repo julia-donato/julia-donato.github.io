@@ -85,7 +85,7 @@ Utilizing advanced statistical methods in SPSS, this gun ownership policy memo p
 
 [View the policy memo](./pdf/Policy_Memo.pdf)
 
-<img src="images/policy.png?raw=true" width="200" height="100"/>
+<img src="images/policy.png?raw=true" width="600" height="300"/>
 
 ---
 ## Skills-based Projects
