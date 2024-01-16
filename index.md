@@ -67,8 +67,8 @@ Leveraging machine learning algorithms, this project crafts a nuanced prediction
 This innovative project in computer vision advances object detection, focusing on accurately identifying cats and dogs in images. It leverages a multi-phase approach, incorporating techniques like EfficientDet models, YoloV8, and PyTorch-based neural networks, to refine object detection accuracy significantly.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](#)
-[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](#)
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)](#)
+[![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)](#)
 [![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](#)
 [![](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](#)
 
