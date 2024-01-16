@@ -5,9 +5,9 @@
 
 Leveraging the power of Google Cloud Platform, this big data project examines the impact of socio-economic factors on renewable energy consumption and solar radiation potential in emerging economies. Thia study integrates extensive datasets from the World Bank and the National Solar Radiation Database. Advanced data analytics tools, including Google Bigtable and Python, are employed to uncover how socio-economic trends shape renewable energy use, offering key insights for sustainable energy policies in these rapidly evolving markets.
 
-<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Jupyter%20Notebook-white?logo=jupyter)](#) 
 
 <img src="images/GHI.png?raw=true"/>
 
